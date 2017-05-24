@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "TCP chat server",
   "main": "index.js",
-  "author": "Filip",
+  "author": "filip.messa <messa.filip@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": "~7.10.0",
-    "npm": "~4.2.0"
+    "yarn": "~0.24.5"
   },
 }
